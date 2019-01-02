@@ -1,15 +1,12 @@
 {
-  "name": "johnkpaul",
+  "name": "iandelduca",
   "version": "1.0.0",
-  "description": "John K. Paul, the person",
+  "description": "Ian Del Duca, All Around Swell Guy.",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
   },
-  "keywords": [
-    "person",
-    "contact"
-  ],
-  "author": "John K. Paul",
+  "keywords": ["person", "contact"],
+  "author": "Ian Del Duca",
   "license": "ISC"
 }
