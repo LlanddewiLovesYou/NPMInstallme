@@ -1,10 +1,10 @@
 {
   "name": "iandelduca",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "Ian Del Duca, All Around Swell Guy.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "node index.js"
   },
   "keywords": ["person", "contact"],
   "author": "Ian Del Duca",
